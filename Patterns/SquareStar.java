@@ -1,3 +1,4 @@
+package Patterns;
 public class SquareStar 
 {
    public static void main(String[] args)

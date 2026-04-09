@@ -1,3 +1,4 @@
+package Patterns;
 class StartPattern
 {
    public static void main(String[] args) 

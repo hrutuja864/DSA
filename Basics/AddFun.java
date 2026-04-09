@@ -1,3 +1,4 @@
+package Basics;
 public class AddFun 
 {
     public static int findSum(int a, int b)

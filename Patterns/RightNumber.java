@@ -1,3 +1,4 @@
+package Patterns;
 public class RightNumber 
 {
     public static void main(String[] args) 
